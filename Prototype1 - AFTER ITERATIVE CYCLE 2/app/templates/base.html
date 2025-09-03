@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<!-- Creating a base HTML template which all templates can be derived from -->
+<html>
+    <head>
+        <!-- Control statement that displays a default title if no title is passed into the template -->
+        {% if title %}
+        <title>{{title}} - Previse</title>
+        {% else %}
+        <title>Welcome to Previse</title>
+        {% endif %}
+    </head>
+    <body>
+        <!-- Navigation bar that displays page links -->
+        <div>Previse: <a href="/index">Home</a></div>
+        <hr>
+
+        {% block content %}{% endblock %}
+    </body>
+</html>

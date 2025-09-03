@@ -1,0 +1,12 @@
+Previous 1 SS notes:
+Here i am setting up a file where i can put my configuration. Almost all Flask applications, past extremely simple applications like what i have created so far, require configuration. This involves making decisions that give me more freedom in creating applications. Configuration is done by passing a list of configuration variables into the framework,and the most basic way to do this is by defining the variables as keys in app.config, which uses a dictionary style to work with variables.
+
+i.e. in __init__.py i would write:
+app.config['SECRET_KEY'] = "you-will-never-guess"
+
+however, i decided to instead set up a whole new file, dedicated to configuration. i decided this because, while it is a more complex method, it will make the program more maintainable, as configuration can be more easily found and edited/updated.
+to store configuration in this file, i have created a new class Config, in which the configuration settings are defined as class variables. note: not attributes, as attributes are specific to each instance of a class, while class variables are shared among all instances.
+
+the secret key config variable added is an important part in most flask applications, because flask and some flask extensions use the value of secret key as a cryptographic key, which a flask extension (called flask-wtf) uses to protect web forms against Cross-Site Request Forgery (CSRF), a type of cyberattack.
+
+the value of secret key is set as an expression with two terms, joined by an or operator. the first term looks for the value of an environment variable, also called SECRET_KEY, and the second term is a string. here, the value sourced from the environment variable is ... READ MORE ON P.28
