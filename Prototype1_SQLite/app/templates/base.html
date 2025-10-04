@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<!-- Creating a base HTML template which all templates can be derived from -->
+<html>
+    <head>
+        <!-- Control statement that displays a default title if no title is passed into the template -->
+        {% if title %}
+            <title>{{title}} - Previse</title>
+        {% else %}
+            <title>Welcome to Previse</title>
+        {% endif %}
+    </head>
+    <body>
+        <!-- Navigation bar that displays page links -->
+        <div>
+            Previse:
+            <a href="{{ url_for('index') }}">Home</a>
+            <a href="{{ url_for('login') }}">Login</a>
+        </div>
+        <hr>
+        <!-- Checking for any outstanding flashed messages and storing them in a 'messages' array -->
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            <!-- Displaying any flashed messages that have been requested -->
+                <ul>
+                    {% for message in messages %}
+                    <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        {% endwith %}
+
+        {% block content %}{% endblock %}
+    </body>
+</html>
