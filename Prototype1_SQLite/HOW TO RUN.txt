@@ -1,6 +1,6 @@
 1. Run this command in the console. This command defines the starting file for the application.
 
-> set FLASK_APP=start.py
+> set FLASK_APP=app.py
 
 2. After, run this command in the console to start the web application.
 

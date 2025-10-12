@@ -10,4 +10,14 @@ app.config.from_object(Config)
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
+#----------shell context----------
+from app.models import Student, Teacher
+import sqlalchemy as sa
+import sqlalchemy.orm as so
+
+@app.shell_context_processor
+def make_shell_context():
+    return {'sa':sa, 'so':so, 'db':db, 'Student':Student, 'Teacher':Teacher}
+#---------------------------------
+
 from app import routes, models
