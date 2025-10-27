@@ -1,0 +1,100 @@
+What is 324 + 5?|329
+What is 403 + 7?|410
+What is 512 + 9?|521
+What is 627 + 8?|635
+What is 718 + 6?|724
+What is 803 + 4?|807
+What is 640 + 2?|642
+What is 999 + 1?|1000
+What is 431 + 10?|441
+What is 286 + 20?|306
+What is 572 + 30?|602
+What is 640 + 40?|680
+What is 715 + 50?|765
+What is 822 + 60?|882
+What is 940 + 70?|1010
+What is 345 + 100?|445
+What is 278 + 200?|478
+What is 126 + 300?|426
+What is 450 + 400?|850
+What is 275 + 500?|775
+What is 632 - 4?|628
+What is 711 - 8?|703
+What is 904 - 9?|895
+What is 520 - 7?|513
+What is 306 - 6?|300
+What is 437 - 10?|427
+What is 682 - 20?|662
+What is 910 - 30?|880
+What is 750 - 40?|710
+What is 621 - 50?|571
+What is 500 - 100?|400
+What is 800 - 200?|600
+What is 900 - 300?|600
+What is 450 - 400?|50
+What is 725 - 500?|225
+Add 243 + 134.|377
+Add 526 + 147.|673
+Add 312 + 276.|588
+Add 407 + 188.|595
+Add 364 + 217.|581
+Add 528 + 331.|859
+Add 639 + 240.|879
+Add 412 + 356.|768
+Add 514 + 382.|896
+Add 234 + 356.|590
+Subtract 653 - 241.|412
+Subtract 875 - 426.|449
+Subtract 734 - 215.|519
+Subtract 912 - 333.|579
+Subtract 825 - 447.|378
+Subtract 604 - 289.|315
+Subtract 723 - 256.|467
+Subtract 931 - 442.|489
+Subtract 812 - 405.|407
+Subtract 990 - 673.|317
+Estimate 389 + 412 to the nearest hundred.|800
+Estimate 251 + 348 to the nearest hundred.|600
+Estimate 789 - 302 to the nearest hundred.|500
+Estimate 621 - 289 to the nearest hundred.|300
+Estimate 456 + 532 to the nearest hundred.|1000
+Estimate 211 + 478 to the nearest hundred.|700
+Estimate 823 - 419 to the nearest hundred.|400
+Estimate 380 + 260 to the nearest hundred.|600
+Estimate 649 - 248 to the nearest hundred.|400
+Estimate 220 + 540 to the nearest hundred.|800
+Fill in the missing number: 342 + __ = 400|58
+Fill in the missing number: __ + 25 = 300|275
+Fill in the missing number: 478 - __ = 200|278
+Fill in the missing number: __ - 150 = 450|600
+Fill in the missing number: 620 - __ = 310|310
+If 245 + 123 = 368, what is 368 - 245?|123
+If 392 + 107 = 499, what is 499 - 392?|107
+If 530 - 120 = 410, what is 410 + 120?|530
+If 650 - 240 = 410, what is 410 + 240?|650
+If 999 - 888 = 111, what is 111 + 888?|999
+Which sign makes this true: 512 __ 300 = 812|+
+Which sign makes this true: 620 __ 120 = 500|-
+Which sign makes this true: 725 __ 275 = 1000|+
+Which sign makes this true: 950 __ 350 = 600|-
+Fill in the blank: 200 + 300 = 300 + __|200
+Fill in the blank: 400 + 500 = __ + 400|500
+True or false: 345 + 120 = 120 + 345|True
+True or false: 900 - 400 = 400 - 900|False
+True or false: 100 + 200 = 300|True
+True or false: 800 - 300 = 400|False
+Fill in the blank: if 324 + 176 = 500, then 500 - 176 = __|324
+Fill in the blank: if 628 - 219 = 409, then 219 + 409 = __|628
+Fill in the blank: if 456 + 190 = 646, then 646 - 456 = __|190
+Fill in the blank: if 516 - 295 = 221, then 221 + 295 = __|516
+Fill in the blank: if 179 + 529 = 708, then 708 - 529 = __|179
+Solve: 234 + 105 = __|339
+Solve: 700 - 289 = __|411
+Solve: 654 + 233 = __|887
+Solve: 982 - 468 = __|514
+Solve: 326 + 409 = __|735
+Solve: 875 - 364 = __|511
+Solve: 499 + 278 = __|777
+Solve: 660 - 245 = __|415
+Solve: 337 + 418 = __|755
+Solve: 721 - 305 = __|416

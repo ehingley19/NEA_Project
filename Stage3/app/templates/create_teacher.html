@@ -1,0 +1,65 @@
+<!-- Establishing create_teacher.html as a derived template from base.html -->
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Create Teacher Account</h1>
+    <!-- Using the HTML <form> element as a container for the web form -->
+    <form action="" method="post" novalidate>
+        <!-- The statement below generates a hidden field, used to protect the form against CSRF attacks -->
+        {{ form.hidden_tag() }}
+        <p>
+            <!-- Specifying the position of the field and field label -->
+            {{ form.forename.label }}<br>
+            {{ form.forename(size=32) }}
+            <!-- Displaying any forename field validation errors -->
+            {% for error in form.forename.errors %}
+                <br><span style="color: red; font-style: italic;">{{error}}</span>
+            {% endfor %}
+        </p>
+        <p>
+            <!-- Specifying the position of the field and field label -->
+            {{ form.surname.label }}<br>
+            {{ form.surname(size=32) }}
+            <!-- Displaying any surname field validation errors -->
+            {% for error in form.surname.errors %}
+                <br><span style="color: red; font-style: italic;">{{error}}</span>
+            {% endfor %}
+        </p>
+        <p>
+            <!-- Specifying the position of the field and field label -->
+            {{ form.username.label }}<br>
+            {{ form.username(size=32) }}
+            <!-- Displaying any username field validation errors -->
+            {% for error in form.username.errors %}
+                <br><span style="color: red; font-style: italic;">{{error}}</span>
+            {% endfor %}
+        </p>
+        <p>
+            <!-- Specifying the position of the field and field label -->
+            {{ form.email.label }}<br>
+            {{ form.email(size=32) }}
+            <!-- Displaying any email field validation errors -->
+            {% for error in form.email.errors %}
+                <br><span style="color: red; font-style: italic;">{{error}}</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.password.label }}<br>
+            {{ form.password(size=32) }}
+            <!-- Displaying any password field validation errors -->
+            {% for error in form.password.errors %}
+                <br><span style="color: red; font-style: italic;">{{error}}</span>
+            {% endfor %}
+        </p>
+        <p>
+            <!-- Specifying the position of the field and field label -->
+            {{ form.year_group.label }}<br>
+            {{ form.year_group(size=32) }}
+            <!-- Displaying any year group field validation errors -->
+            {% for error in form.year_group.errors %}
+                <br><span style="color: red; font-style: italic;">{{error}}</span>
+            {% endfor %}
+        </p>
+        <p>{{ form.submit() }}</p>
+    </form>
+{% endblock %}

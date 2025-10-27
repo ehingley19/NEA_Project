@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<!-- Creating a base HTML template which all templates can be derived from -->
+<html>
+    <head>
+        <!-- Control statement that displays a default title if no title is passed into the template -->
+        {% if title %}
+            <title>{{ title }} - Previse</title>
+        {% else %}
+            <title>Welcome to Previse</title>
+        {% endif %}
+    </head>
+    <body>
+        <!-- Navigation bar that displays page links -->
+        <div>
+            Previse: 
+            <a href="{{ url_for('index') }}">Home</a> | 
+            <a href="{{ url_for('create_teacher') }}">Create Teacher Account</a> | 
+            <a href="{{ url_for('create_student') }}">Create Student Account</a> | 
+            <a href="{{ url_for('teacher_login') }}">Teacher Login</a> | 
+            <a href="{{ url_for('student_login') }}">Student Login</a> | 
+            <a href="{{ url_for('logout') }}">Logout</a> | 
+            <a href="{{ url_for('teacher_portal') }}">Teacher Portal</a> | 
+            <a href="{{ url_for('student_portal') }}">Student Portal</a>
+        </div>
+        <hr>
+
+        <!-- Checking for any outstanding flashed messages and storing them in a 'messages' array -->
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            <!-- Displaying any flashed messages that have been requested -->
+                <ul>
+                    {% for message in messages %}
+                    <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        {% endwith %}
+
+        {% block content %}{% endblock %}
+    </body>
+</html>

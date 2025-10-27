@@ -1,0 +1,32 @@
+<!-- Establishing student_portal.html as a derived template from base.html -->
+{% extends "base.html" %}
+
+<!-- Defining the block of code, named 'content', that will be inserted into the base.html template where
+referenced -->
+{% block content %}
+    <h1>{{ current_user.forename }}'s Student Portal</h1>
+    <details>
+        <summary>Year 1</summary>
+        <a href="{{ url_for('yr1_addition_and_subtraction') }}">Addition and subtraction</a>
+    </details>
+    <details>
+        <summary>Year 2</summary>
+        <a href="{{ url_for('yr2_addition_and_subtraction') }}">Addition and subtraction</a>
+    </details>
+    <details>
+        <summary>Year 3</summary>
+        <a href="{{ url_for('yr3_addition_and_subtraction') }}">Addition and subtraction</a>
+    </details>
+    <details>
+        <summary>Year 4</summary>
+        <a href="{{ url_for('yr4_addition_and_subtraction') }}">Addition and subtraction</a>
+    </details>
+    <details>
+        <summary>Year 5</summary>
+        <a href="{{ url_for('yr5_addition_and_subtraction') }}">Addition and subtraction</a>
+    </details>
+    <details>
+        <summary>Year 6</summary>
+        <a href="{{ url_for('yr6_addition_and_subtraction') }}">Addition and subtraction</a>
+    </details>
+{% endblock %}

@@ -1,0 +1,100 @@
+Add 23567 + 42985.|66552
+Add 78456 + 9321.|87777
+Add 62005 + 13895.|75900
+Add 48321 + 17654.|65975
+Add 90543 + 22341.|112884
+Add 40216 + 51784.|92000
+Add 65009 + 38127.|103136
+Add 47385 + 26549.|73934
+Add 71243 + 12508.|83751
+Add 90412 + 34729.|125141
+Add 12500 + 8750.|21250
+Add 456000 + 349000.|805000
+Add 78543 + 12987.|91530
+Add 95000 + 27500.|122500
+Add 67234 + 8821.|76055
+Add 100500 + 149500.|250000
+Add 32145 + 67890.|100035
+Add 48732 + 9856.|58588
+Add 42901 + 17209.|60110
+Add 90500 + 25000.|115500
+Subtract 95000 – 23800.|71200
+Subtract 84532 – 45321.|39211
+Subtract 120000 – 45000.|75000
+Subtract 64085 – 32975.|31110
+Subtract 90543 – 6789.|83754
+Subtract 43210 – 32109.|11101
+Subtract 76500 – 32400.|44100
+Subtract 81000 – 29500.|51500
+Subtract 99999 – 54321.|45678
+Subtract 62000 – 41750.|20250
+Subtract 42567 – 21456.|21111
+Subtract 72936 - 24539.|48397
+Subtract 300000 – 175000.|125000
+Subtract 58963 – 38960.|20003
+Subtract 73000 – 27000.|46000
+Subtract 98000 – 24000.|74000
+Subtract 54000 – 34500.|19500
+Subtract 91000 – 59000.|32000
+Subtract 60000 – 25500.|34500
+Subtract 45000 – 11250.|33750
+Subtract 70000 – 28800.|41200
+Estimate 43215 + 28994 to the nearest thousand.|72000
+Estimate 78900 – 37500 to the nearest ten thousand.|40000
+Estimate 24900 + 56300 to the nearest thousand.|81000
+Estimate 89909 – 47812 to the nearest thousand.|42000
+Estimate 56200 + 23100 to the nearest ten thousand.|80000
+Estimate 120500 – 79500 to the nearest thousand.|41000
+Estimate 35121 + 42319 to the nearest thousand.|77000
+Estimate 94872 – 23916 to the nearest ten thousand.|70000
+A shop sold 345 pens on Monday and 426 on Tuesday. Total sold?|771
+A train travelled 245 km in the morning and 186 km in the afternoon. How far in total?|431
+Lucy had £3250, spent £1875, then earned £950. How much does she have now?|2325
+A car drove 456 miles, then another 289. How far in total?|745
+A factory made 23000 items and sold 18500. How many are left?|4500
+A football club sold 1250 tickets online and 875 at the gate. Total sold?|2125
+A school raised £3450 and then £2795. Total money raised?|6245
+A lorry carried 8750 kg of goods, unloaded 3250 kg, and added 1800 kg. New total weight?|7300
+A bakery made 245 loaves in the morning, 198 in the afternoon, sold 320. How many left?|123
+A builder bought 3200 bricks, then 2800 more, used 4500. How many left?|1500
+A library had 12800 books, added 950 new ones, and lost 250. Total now?|13500
+A train had 650 passengers, 220 got off, 95 got on. How many now?|525
+A company earned £125000, spent £74500, and bought new stock for £15500. How much remains?|35000
+A farmer had 8600 apples, sold 2750, then picked 3400 more. How many now?|9250
+A family drove 235 miles to the coast, 180 back, and 25 more around town. Total miles?|440
+A school printed 1750 worksheets, used 935, and then printed 420 more. How many now?|1235
+A team scored 245 points in one match, 310 in another, but lost 75 in penalties. Final total?|480
+A supermarket had 45000 cans, sold 18500, received 7500 more. New total?|34000
+A warehouse shipped 6000 boxes, received 8500 more, then sent 4200. Boxes left?|10300
+A business had £98500, spent £43750, then earned £18250. New balance?|73000
+A cinema sold 2750 tickets on Friday, 3250 on Saturday, refunded 400. Tickets sold?|5600
+A train carried 870 passengers, dropped 295, and picked up 180. Final number?|755
+A post office delivered 1240 letters in the morning, 980 in the afternoon, 560 at night. Total?|2780
+A footballer scored 24 goals last year and 31 this year. Total goals?|55
+A school library had 1350 books, bought 450, then lost 125. How many now?|1675
+A music concert sold 850 tickets in advance and 275 on the day. Total?|1125
+A bus travelled 235 km, then 410 km, then returned 300 km. Total distance?|945
+A company spent £25000 on wages, £18500 on rent, £8000 on materials. Total cost?|51500
+A hotel had 450 guests, 125 left, and 95 new ones arrived. How many now?|420
+A zoo had 835 animals, 45 moved away, and 60 new ones arrived. How many now?|850
+A cafe earned £1250 on Monday, £980 on Tuesday, and £1340 on Wednesday. Total earnings?|3570
+A school trip cost £865 for transport, £125 for tickets, and £65 for food. Total cost?|1055
+A builder used 5400 bricks on one house and 7250 on another. How many in total?|12650
+A park had 345 trees, 75 were cut down, and 60 new ones planted. How many now?|330
+A garage serviced 245 cars in January, 260 in February, and 295 in March. Total?|800
+A festival had 12500 visitors on Saturday, 14500 on Sunday. Total weekend visitors?|27000
+A company earned £28500 in April and £31200 in May. Total earnings?|59700
+A shop had 2450 sweets, sold 1875, received 425 more. How many now?|1000
+A hotel had 240 guests, 85 checked out, and 65 checked in. How many now?|220
+A city library had 25600 books, added 1875, and removed 975. How many now?|26500
+A ship carried 845 passengers, 315 got off, 185 got on. Final count?|715
+A store had £15750, spent £6850, then earned £4250. New total?|13150
+A school raised £8750, spent £3620, and donated £2500. Money left?|2630
+A teacher marked 450 papers, 125 more today. Total marked?|575
+A plumber charged £240 for labour, £75 for parts. Total cost?|315
+A concert had 1250 seats. 975 were sold. How many empty?|275
+A charity received £2450 in donations and £1875 from sales. Total money raised?|4325
+A market stall sold 350 apples, 275 oranges, and 150 bananas. Total fruit sold?|775
+A football match had 14500 fans. 4200 left at halftime, 800 more entered. Final number?|11100
+A delivery truck carried 820 packages, delivered 475, picked up 230. How many now?|575
+A school canteen served 325 lunches, 420 dinners, and 275 breakfasts. Total meals?|1020

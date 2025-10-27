@@ -1,0 +1,20 @@
+<!-- Establishing topic_test.html as a derived template from base.html -->
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Results - {{ title }}</h1>
+    <h3>Score: {{ score }}</h3>
+
+    <!-- Displaying every question and the student's entered answer -->
+    {% for result in results %}
+        <hr>
+        <p>Question: {{ result.question }}</p>
+        <p>Your answer: {{ result.studentAnswer }}</p>
+        <!-- Displaying whether their answer was correct or incorrect (and the correct answer if needed) -->
+        {% if result.isCorrect %}
+            <span style="color: green; font-style: italic;">Correct</span>
+        {% else %}
+            <span style="color: red; font-style: italic;">Incorrect - the correct answer is: {{ result.correctAnswer }}</span>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

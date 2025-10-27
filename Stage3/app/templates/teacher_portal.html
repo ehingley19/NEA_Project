@@ -1,0 +1,9 @@
+<!-- Establishing teacher_portal.html as a derived template from base.html -->
+{% extends "base.html" %}
+
+<!-- Defining the block of code, named 'content', that will be inserted into the base.html template where
+referenced -->
+{% block content %}
+    <h1>{{ current_user.forename }}'s Teacher Portal</h1>
+    <p>Teacher ID: {{ current_user.id }}</p>
+{% endblock %}

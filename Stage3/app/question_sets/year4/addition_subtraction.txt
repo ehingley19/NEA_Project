@@ -1,0 +1,100 @@
+What is 3245 + 1224?|4469
+What is 2156 + 1305?|3461
+What is 3014 + 2263?|5277
+What is 4128 + 1352?|5480
+What is 2765 + 2414?|5179
+What is 1843 + 2157?|4000
+What is 2050 + 3249?|5299
+What is 1367 + 2638?|4005
+What is 4105 + 2508?|6613
+What is 5224 + 3421?|8645
+What is 8092 - 2345?|5747
+What is 6405 - 1254?|5151
+What is 5020 - 2713?|2307
+What is 7348 - 4237?|3111
+What is 9625 - 3516?|6109
+What is 8742 - 4421?|4321
+What is 9000 - 8999?|1
+What is 5432 - 4321?|1111
+What is 8008 - 2004?|6004
+What is 7777 - 3333?|4444
+What is 7031 + 1258?|8289
+What is 4607 + 3213?|7820
+What is 3498 + 2287?|5785
+What is 1555 + 4445?|6000
+What is 6999 + 1?|7000
+What is 6530 - 2400?|4130
+What is 7200 - 6500?|700
+What is 6500 - 1250?|5250
+What is 4400 - 3300?|1100
+Add 2304 + 1806.|4110
+Add 5432 + 3567.|8999
+Add 4265 + 1475.|5740
+Add 3192 + 2248.|5440
+Add 6250 + 3125.|9375
+Add 7142 + 2826.|9968
+Add 2510 + 4890.|7400
+Add 3826 + 1754.|5580
+Add 5405 + 4295.|9700
+Add 6248 + 3752.|10000
+Subtract 5643 - 2432.|3211
+Subtract 7256 - 3211.|4045
+Subtract 8034 - 2604.|5430
+Subtract 9620 - 4830.|4790
+Subtract 7000 - 2600.|4400
+Subtract 6483 - 1279.|5204
+Subtract 7520 - 3490.|4030
+Subtract 9000 - 2850.|6150
+Subtract 6304 - 1589.|4715
+Subtract 8450 - 2390.|6060
+Estimate 3999 + 4102 to the nearest thousand.|8000
+Estimate 6125 - 1980 to the nearest thousand.|4000
+Estimate 6490 - 3530 to the nearest thousand.|3000
+Estimate 4190 + 4820 to the nearest thousand.|9000
+Estimate 7820 - 2790 to the nearest thousand.|5000
+Fill in the missing number: 4567 + __ = 6000|1433
+Fill in the missing number: __ + 2250 = 7000|4750
+Fill in the missing number: 8230 - __ = 5000|3230
+If 3250 + 1740 = 4990, what is 4990 - 1740?|3250
+If 5200 - 2700 = 2500, what is 2500 + 2700?|5200
+Check with inverse: 4300 + 2600 = 6900, so 6900 - 2600 = __|4300
+Check with inverse: 8750 - 4200 = 4550, so 4550 + 4200 = __|8750
+Check with inverse: 2340 + 4055 = 6395, so 6395 - 2340 = __|4055
+Tom collected 2450 stamps last year and 1325 this year. How many stamps does he have in total?|3775
+A train travels 234 km in the morning and 189 km in the afternoon. How far does it travel altogether?|423
+Lucy had £5000 in her savings. She spent £1350 on a bike and £425 on clothes. How much money does she have left?|3225
+A shop sold 245 pens on Monday and 312 on Tuesday. Then 198 were returned. How many pens were finally sold?|359
+A farmer had 4250 apples. He sold 1800 in the morning and 1650 in the afternoon. How many apples are left?|800
+A bus carried 128 people in the morning and 152 in the afternoon. If 45 got off at the last stop, how many people stayed on?|235
+A school bought 250 new books. Later, 175 old ones were added. Then 40 were damaged and removed. How many books remain?|385
+A warehouse received 3500 boxes, then 1800 more. If 2700 were sold, how many boxes are left?|2600
+A baker made 1245 buns on Monday and 1380 on Tuesday. He sold 2150. How many buns remain?|475
+A lorry delivered 3200 bricks to one site and 1800 to another. 2500 were used. How many are still unused?|2500
+A shopkeeper had £4500. He bought goods worth £2750 and sold items for £1900. What is his new total?|3650
+A concert hall has 2500 seats. 1875 were sold on Friday and 420 on Saturday. How many seats are left unsold?|205
+There were 3400 students in a town’s schools. 150 moved away, but 275 new ones joined. How many students are there now?|3525
+A library had 4000 books. 185 were lost, and 265 were added. How many are there now?|4080
+Ben read 125 pages of his book on Monday, 150 on Tuesday, and 85 on Wednesday. How many pages did he read in total?|360
+A train carried 240 passengers from City A to B and then 310 from City B to C. At City C, 180 got off. How many remained?|370
+A shop earned £1240 in the morning and £1560 in the afternoon but refunded £300. What was the final total?|2500
+A builder bought 3250 bricks, then 2400 more. If 4100 were used, how many are left?|1550
+A warehouse stored 6000 boxes. 2750 were sold, then 1450 arrived later. How many boxes are there now?|4700
+A class raised £1850 for charity and £1695 more the next week. If they donated £2000, how much remains?|1545
+A football club sold 345 tickets online and 456 at the gate. 120 were refunded. How many were kept?|681
+A family drove 265 miles to the coast and 265 miles back. Then they drove another 50 miles to visit friends. How many miles altogether?|580
+A cafe served 125 breakfasts and 220 lunches. If 85 meals were leftover, how many were eaten?|260
+A farmer planted 340 trees. Later, 125 were cut down, and 90 new ones were planted. How many trees are there now?|305
+A postman delivered 450 letters in the morning and 325 in the afternoon. If 110 were returned, how many were kept?|665
+A factory made 2300 toys in June, 2700 in July, and sold 4000. How many toys are left?|1000
+A library had 2850 books. 125 were damaged and removed, but 250 were donated. What is the new total?|2975
+A train carried 700 passengers on one trip and 580 on another. 450 passengers bought return tickets. How many tickets were sold in total?|830
+A park had 1200 visitors in the morning, 950 in the afternoon, and 875 the next day. How many visitors in total?|3025
+A school raised £1240 in one week and £1895 the next. They donated £2000 to charity. How much is left?|1135
+A cinema sold 875 tickets for one film and 920 for another. 150 were refunded. How many were used?|1645
+A lorry carried 3450 kg of goods. It unloaded 1450 kg at one stop and 750 kg at another. How much weight remains?|1250
+A shop received 2500 apples and 1800 oranges. It sold 2100 fruits. How many are left?|2200
+A warehouse stored 4800 boxes, then received 1700 more. After selling 2900, how many remain?|3600
+A café sold 450 sandwiches on Monday and 520 on Tuesday. If 250 were left unsold, how many were sold?|720
+A train travelled 325 km in the morning and 265 km in the evening. It returned 590 km the next day. What was the total distance?|1180
+A concert had 2250 seats. 1750 were sold online, 325 in person. How many tickets remain?|175
+A football team scored 245 goals last year and 275 this year. They lost 90 goals to rule changes. What is their total now?|430

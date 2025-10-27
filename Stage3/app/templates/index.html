@@ -1,0 +1,12 @@
+<!-- Establishing index.html as a derived template from base.html -->
+{% extends "base.html" %}
+
+<!-- Defining the block of code, named 'content', that will be inserted into the base.html template where
+referenced -->
+{% block content %}
+    {% if current_user.is_authenticated %}
+    <h1>Hello {{ current_user.forename }}!</h1>
+    {% else %}
+    <h1>Hello!</h1>
+    {% endif %}
+{% endblock %}

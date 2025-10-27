@@ -1,0 +1,100 @@
+What is 13 + 6?|19
+What is 25 - 4?|21
+What is 8 + 7?|15
+What is 15 - 9?|6
+What is 30 + 20?|50
+What is 40 - 10?|30
+What is 12 + 10?|22
+What is 22 - 10?|12
+Add 9 + 8 + 3.|20
+Add 4 + 7 + 6.|17
+What is 35 + 5?|40
+What is 40 - 5?|35
+What is 26 + 10?|36
+What is 47 - 20?|27
+What is 14 + 20?|34
+What is 50 - 30?|20
+Add 60 + 30.|90
+Subtract 80 - 40.|40
+Add 2 tens and 3 tens.|50
+Subtract 2 tens from 9 tens.|70
+What is 23 + 4?|27
+What is 56 - 3?|53
+What is 18 + 2?|20
+What is 20 - 8?|12
+What is 31 + 6?|37
+What is 45 - 5?|40
+What is 10 + 19?|29
+What is 62 - 2?|60
+What is 50 + 4?|54
+What is 61 - 10?|51
+Add 35 + 12.|47
+Subtract 48 - 13.|35
+Add 21 + 15.|36
+Subtract 67 - 25.|42
+Add 42 + 34.|76
+Subtract 53 - 21.|32
+Add 11 + 24.|35
+Subtract 64 - 40.|24
+Add 28 + 16.|44
+Subtract 82 - 41.|41
+Add 17 + 22.|39
+Subtract 70 - 35.|35
+Add 33 + 45.|78
+Subtract 94 - 53.|41
+Add 29 + 14.|43
+Subtract 63 - 22.|41
+Add 40 + 40.|80
+Subtract 90 - 30.|60
+What is 10 more than 46?|56
+What is 10 less than 63?|53
+What is 1 more than 78?|79
+What is 1 less than 42?|41
+Double 18.|36
+Double 25.|50
+Half of 60.|30
+Half of 44.|22
+What is 17 + 0?|17
+What is 45 - 0?|45
+What is 23 + 10?|33
+What is 33 - 10?|23
+What is 12 + 5 + 3?|20
+What is 9 + 4 + 7?|20
+Add 24 + 36.|60
+Subtract 84 - 24.|60
+Add 32 + 48.|80
+Subtract 72 - 52.|20
+Add 14 + 17.|31
+Subtract 19 - 9.|10
+Add 25 + 40.|65
+Subtract 90 - 20.|70
+Fill in the missing number: 43 + __ = 50|7
+Fill in the missing number: __ - 6 = 14|20
+Fill in the missing number: 38 - __ = 20|18
+Fill in the missing number: 15 + __ = 25|10
+What number makes this true: 30 = 20 + __|10
+If 9 + 6 = 15, what is 15 - 6?|9
+If 8 + 5 = 13, what is 13 - 8?|5
+If 7 + 3 = 10, what is 10 - 7?|3
+If 10 + 4 = 14, what is 14 - 10?|4
+If 12 + 8 = 20, what is 20 - 12?|8
+Which sign makes this true: 35 __ 15 = 50|+
+Which sign makes this true: 70 __ 40 = 30|-
+Fill in the blank: 9 + 4 = 4 + __|9
+Fill in the blank: 8 + 7 = __ + 8|7
+True or False: 5 + 6 = 6 + 5|True
+True or False: 9 - 3 = 3 - 9|False
+True or False: 40 + 20 = 60|True
+True or False: 90 - 40 = 30|False
+True or False: 7 - 5 = 5 - 7|False
+Fill in the blank: if 13 + 9 = 22, then 22 - 9 = __|13
+Fill in the blank: if 17 - 6 = 11, then 11 + 6 = __|17
+Fill in the blank: if 76 - 16 = 60, then 60 + 16 = __|76
+Solve: 26 + 14 = __|40
+Solve: 65 - 25 = __|40
+Solve: 52 + 38 = __|90
+Solve: 91 - 19 = __|72
+Solve: 48 + 27 = __|75
+Solve: 88 - 64 = __|24
+Solve: 36 + 12 = __|48
+Solve: 75 - 50 = __|25
